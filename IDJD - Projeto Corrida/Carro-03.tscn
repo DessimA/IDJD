@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Carros/Car_3.png" type="Texture" id=1]
+
+[node name="Carro-03" type="Node2D"]
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 269, 750 )
+texture = ExtResource( 1 )

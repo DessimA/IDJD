@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Pista/LeftBump.png" type="Texture" id=1]
+
+[node name="Lateral-Esquerda" type="Node2D"]
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 54, 400.5 )
+scale = Vector2( 0.6, 1.33612 )
+texture = ExtResource( 1 )
