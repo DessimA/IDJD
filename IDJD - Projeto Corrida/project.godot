@@ -8,16 +8,21 @@
 
 config_version=4
 
+_global_script_classes=[  ]
+_global_script_class_icons={
+
+}
+
 [application]
 
 config/name="IDJD - Projeto Corrida"
-run/main_scene="res://Main.tscn"
+run/main_scene="res://Inicio.tscn"
 config/icon="res://icon.png"
 
 [display]
 
-window/size/width=400
-window/size/height=800
+window/size/width=200
+window/size/height=400
 
 [physics]
 

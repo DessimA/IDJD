@@ -1,0 +1,31 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Botão/Blue buttons/play blue button 300x80 hover/Play button blue 150x40 hover000001.png" type="Texture" id=1]
+[ext_resource path="res://Botão/orange button/quit orange button 300x80 hover/quit button orange 150x40 hover000001.png" type="Texture" id=2]
+[ext_resource path="res://TelaInicio.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Jogar.gd" type="Script" id=4]
+
+[node name="Inicio" type="Node"]
+
+[node name="TelaInicio" parent="." instance=ExtResource( 3 )]
+
+[node name="Jogar" type="Button" parent="TelaInicio"]
+margin_left = 21.7266
+margin_top = 217.853
+margin_right = 183.727
+margin_bottom = 263.853
+icon = ExtResource( 1 )
+script = ExtResource( 4 )
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Sair" type="Button" parent="TelaInicio"]
+margin_left = 22.8982
+margin_top = 271.881
+margin_right = 184.898
+margin_bottom = 317.881
+icon = ExtResource( 2 )
+__meta__ = {
+"_edit_use_anchors_": false
+}

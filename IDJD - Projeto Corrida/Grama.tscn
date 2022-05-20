@@ -5,6 +5,6 @@
 [node name="Grama" type="Node2D"]
 
 [node name="Sprite" type="Sprite" parent="."]
-position = Vector2( 200.5, 400.5 )
-scale = Vector2( 0.49875, 1.33946 )
+position = Vector2( 101.492, 199.708 )
+scale = Vector2( 0.25123, 0.667915 )
 texture = ExtResource( 1 )

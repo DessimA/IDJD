@@ -5,6 +5,6 @@
 [node name="Pista" type="Node2D"]
 
 [node name="Sprite" type="Sprite" parent="."]
-position = Vector2( 202.5, 400.5 )
-scale = Vector2( 0.346429, 1.22923 )
+position = Vector2( 101.225, 199.956 )
+scale = Vector2( 0.181231, 0.61217 )
 texture = ExtResource( 1 )
