@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Ayrton Senna - Tema Da Vitoria (online-audio-converter.com).ogg-1c1c7df5743eafe1d5b954ff822e627f.oggstr"
+
+[deps]
+
+source_file="res://Music/Ayrton Senna - Tema Da Vitoria (online-audio-converter.com).ogg"
+dest_files=[ "res://.import/Ayrton Senna - Tema Da Vitoria (online-audio-converter.com).ogg-1c1c7df5743eafe1d5b954ff822e627f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
