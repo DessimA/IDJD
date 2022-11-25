@@ -15,20 +15,10 @@ _global_script_class_icons={
 
 [application]
 
-config/name="IDJD - Projeto Corrida"
-run/main_scene="res://Inicio.tscn"
+config/name="IDJD-Sprite_Animado-2"
+run/main_scene="res://frogMove.tscn"
 config/icon="res://icon.png"
-
-[display]
-
-window/size/width=200
-window/size/height=400
-
-[physics]
-
-common/enable_pause_aware_picking=true
 
 [rendering]
 
-quality/driver/driver_name="GLES2"
 environment/default_environment="res://default_env.tres"
